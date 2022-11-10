@@ -313,3 +313,8 @@ footer {
     margin-bottom: 0;
   }
   
+  @media (max-width: 768px) {
+    .footer-name p {
+        font-size: 14px;
+    }
+}
