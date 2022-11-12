@@ -251,7 +251,7 @@ img {
     height: 350px;
     object-fit: cover;
     object-position: center;
-    cursor: pointer;
+
 
     border-radius: 10px;
     grid-row: 1 / -1;
